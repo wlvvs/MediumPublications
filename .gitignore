@@ -2,3 +2,5 @@
 **/__pycache__/*
 **/.vscode/*
 **/.mypy_cache/*
+**/.ipynb_checkpoints/*
+**/Publications/example.log
