@@ -1,3 +1,4 @@
 # **Medium Publications**
 
-Repository to build post on Jupyter Notebooks to be published on my Medium blog
+Repository to build posts on Jupyter Notebooks to be published later on my Medium blog.
+Have you ever visited it? You can do it (right here!)[https://wlvvs.com]
